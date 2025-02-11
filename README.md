@@ -46,7 +46,6 @@ Total: 20
 Dealer Hand: ♠7 (with another card hidden)
 
 Hit (h) or Stand (s)?
-> s
 
 ## Dealer Hand: ♠7 ♣10  (Total: 17)
 You win! Press d to deal again, or q to quit.
